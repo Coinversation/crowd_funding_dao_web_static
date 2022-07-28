@@ -1,0 +1,58 @@
+{
+  "grants_id": 11,
+  "user_id": 1,
+  "currency": "CTO",
+  "grants_id_hash": "VXNlci0yNDk5MzcyMzg=",
+  "main_title": "Bearing His Flowers",
+  "description": "A photobook by Stephanie Taiber published with Yoffy Press about vulnerability and strength.",
+  "content": [
+    {
+      "title": "He has summoned legendary heroes to finish the task.",
+      "img": "https://static.coinversation.io/img/grants_details/VXNlci0yNDk5MzcyMzg=/12321.png",
+      "content": [
+        "Thank you for visiting! I'm excited to share my long time project, “Bearing His Flowers,” a photobook I am publishing with Yoffy Press. It has been an honor and a delight to work with Jennifer Yoffy, and the entire Yoffy team.",
+        "Orders from this campaign will support the printing, production & shipping of “Bearing His Flowers.” Please read on to learn about the project and the exclusive rewards I am offering to help me reach this Kickstarter goal."
+      ],
+      "movie": "https://static.coinversation.io/video/grants_details/VXNlci0yNDk5MzcyMzg=/f2a21d85a8d1cf6e1a4602c77e80a55a_h264_base.mov"
+    }
+  ],
+  "topic": 0,
+  "banner_image_url": "https://static.coinversation.io/img/grants_details/VXNlci0yNDk5MzcyMzg=/banner_image.png",
+  "amount_token_goal": "90000.0",
+  "amount_token_first_batch_used": "5000.00",
+  "amount_token__used": "0",
+  "backers_count": 89,
+  "proposal_list_id": [
+    1
+  ],
+  "twitter_url": "",
+  "project_website": "",
+  "discord_url": "",
+  "updated_at": 1658232204,
+  "start_time": 1658232204,
+  "end_time": 1660824201,
+  "creator": {
+    "user_id": 1,
+    "user_id_hash": "VXNlci05NTcyNDM2Njg=",
+    "grants_create_list_id": [
+      1
+    ],
+    "grants_contribution_list_id": [
+      1
+    ],
+    "grants_collections_list_id": [
+      1
+    ],
+    "account_address": "5CFuXNqoVGTjgBUYR2xb145ju9cWdLHABdeYaQQq85Jdewck",
+    "email_address": "",
+    "username": "Steamforged Games Ltd",
+    "portrait": "https://static.coinversation.io/img/portrait/default.svg",
+    "vip_level": 0,
+    "twitter": "",
+    "discord": "",
+    "github": "",
+    "last_login_at": 1658935568,
+    "inserted_at": 1658979304,
+    "updated_at": 1658979304
+  }
+}

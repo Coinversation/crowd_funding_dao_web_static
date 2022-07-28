@@ -1,0 +1,50 @@
+{
+  "proposal_id": 0,
+  "proposal_id_hash": "asdfadf",
+  "grants_id_hash": "a23dsaaff",
+  "amount_token_pledged": "1213.00",
+  "main_title": "[AIP-9] Deposit Liquidation Treasury Funds into Lending Pools while waiting to be used for buyback",
+  "description": "As GPs, we’ve led two of the largest and longest-standing global community platforms supporting this target startup profile, and we bring unmatched portfolio support and an expansive footprint of potential product users and customers, employees, investors, and champions to the table for our founders. We have a strong track record of 15+ years working with founders and investors in the ecosystem and have backed more women-led startups than the biggest VC firms.",
+  "amount_vault": "0",
+  "voting_options": [
+    {
+      "id": 0,
+      "value": "Jonathan Wasserstrum Rolling Fund",
+      "vating_number": 5
+    },
+    {
+      "id": 1,
+      "value": "Fast forward and PropTech is a word that is causing the world and the industry to accelerate quickly to adopt and adapt. ",
+      "vating_number": 120
+    }
+  ],
+  "backers_count": 3759,
+  "participants_count": 232,
+  "updated_at": 1658852060,
+  "start_time": 1658852060,
+  "end_time": 1661360340,
+  "creator": {
+    "user_id": 1,
+    "user_id_hash": "VXNlci05NTcyNDM2Njg=",
+    "grants_create_list_id": [
+      1
+    ],
+    "grants_contribution_list_id": [
+      1
+    ],
+    "grants_collections_list_id": [
+      1
+    ],
+    "account_address": "5CFuXNqoVGTjgBUYR2xb145ju9cWdLHABdeYaQQq85Jdewck",
+    "email_address": "",
+    "username": "Steamforged Games Ltd",
+    "portrait": "https://static.coinversation.io/img/portrait/default.svg",
+    "vip_level": 0,
+    "twitter": "",
+    "discord": "",
+    "github": "",
+    "last_login_at": 1658935568,
+    "inserted_at": 1658979304,
+    "updated_at": 1658979304
+  }
+}

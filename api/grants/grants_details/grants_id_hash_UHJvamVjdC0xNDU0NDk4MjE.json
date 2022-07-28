@@ -1,0 +1,60 @@
+{
+  "grants_id": 10,
+  "user_id": 1,
+  "currency": "CTO",
+  "grants_id_hash": "UHJvamVjdC0xNDU0NDk4MjE",
+  "main_title": "YesWelder Firstess CT2050: Powerful 7-in-1 Welder & Cutter",
+  "description": "How Rootly’s Founders Used a Roll Up Vehicle to Add Strategic",
+  "content": [
+    {
+      "title": "He has summoned legendary heroes to finish the task.",
+      "img": "https://static.coinversation.io/img/grants_details/UHJvamVjdC0xNDU0NDk4MjE/0cdde2c54ebc64ab96b20f09e787dc52_original.png",
+      "content": [
+        "Champions arise to crush the forces of Draconis. They now wield the strange and incredible ability of Invocation, shifting the tides of battle in an instant. The King needs your aid. He offers wonderful Bonus rewards for your skills and loyalty. Can you destroy the invaders and bring peace to the realm?"
+      ]
+    }
+  ],
+  "topic": 0,
+  "banner_image_url": "https://static.coinversation.io/img/grants_details/UHJvamVjdC0xNDU0NDk4MjE/banner_image.avif",
+  "movie": {
+    "base": "https://static.coinversation.io/video/grants_details/UHJvamVjdC0xNDU0NDk4MjE/banner_video.mov"
+  },
+  "amount_token_goal": "83450.0",
+  "amount_token_pledged": "1213.00",
+  "amount_token_first_batch_used": "10000.00",
+  "amount_token__used": "0",
+  "backers_count": 3759,
+  "proposal_list_id": [
+    1
+  ],
+  "twitter_url": "",
+  "project_website": "",
+  "discord_url": "",
+  "updated_at": 1658854812,
+  "start_time": 1658854812,
+  "end_time": 1659718800,
+  "creator": {
+    "user_id": 1,
+    "user_id_hash": "VXNlci05NTcyNDM2Njg=",
+    "grants_create_list_id": [
+      1
+    ],
+    "grants_contribution_list_id": [
+      1
+    ],
+    "grants_collections_list_id": [
+      1
+    ],
+    "account_address": "5CFuXNqoVGTjgBUYR2xb145ju9cWdLHABdeYaQQq85Jdewck",
+    "email_address": "",
+    "username": "Steamforged Games Ltd",
+    "portrait": "https://static.coinversation.io/img/portrait/default.svg",
+    "vip_level": 0,
+    "twitter": "",
+    "discord": "",
+    "github": "",
+    "last_login_at": 1658935568,
+    "inserted_at": 1658979304,
+    "updated_at": 1658979304
+  }
+}

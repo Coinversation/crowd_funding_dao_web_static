@@ -1,0 +1,64 @@
+{
+  "grants_id": 0,
+  "currency": "CTO",
+  "grants_id_hash": "123xasdd",
+  "main_title": "Draconis Invasion: Collected Edition - Wrath &amp; Glory",
+  "description": "Draconis returns with Wrath and a new modular Glory expansion that adds new strategies while keeping the core mechanics that fans love.",
+  "content": [
+    {
+      "title": "Draconis Invasion",
+      "img": "https://static.coinversation.io/img/grants_details/UHJvamVjdC0xNDAyNTYwOTM3/12312e23.png",
+      "content": [
+        "1. The Pace - Killing Invaders can happen as early as the first turn! The layout of weak and strong enemies allows for the choice of quick combat or a slow build to kill the heavier Invaders.",
+        "2. The Pictures - Several talented illustrators created the dark and beautiful world of both Draconis Invasion and the expansions. Their artwork enhances the theme and experience.",
+        "3. The Catchup - The game offers a solution for players who get discouraged when they fall behind. The Events, Terror cards, and Terror Die create a 'fatigue' that weighs on the active fighters, allowing other players to catch up.",
+        "4. The Campaigns - Completing secret Campaign cards adds an extra layer to your decisions. Should I pick up new Campaigns? Which Invader should I defeat now? How will these bonuses affect my win?",
+        "5. The Doomsday Timer - The Terror Die and Event Cards act as a doomsday timer. Each time the Die increases to 6 and an Event is revealed, players feel the effects. This adds an element of shared suspense.",
+        "6. The Deckbuilding Purism - Praised by some as their 'favorite true deckbuilder', Draconis Invasion adds no fancy gimmicks or crossovers with other hot mechanics. We are inspired by the deckbuilders that we love to play and we aim to keep things simple and fun."
+      ]
+    }
+  ],
+  "topic": 0,
+  "banner_image_url": "https://static.coinversation.io/img/grants_details/UHJvamVjdC0xNDAyNTYwOTM3/banner_image.png",
+  "movie": {
+    "base": "https://static.coinversation.io/video/grants_details/UHJvamVjdC0xNDAyNTYwOTM3/banner_video.mov"
+  },
+  "amount_token_goal": "83450.0",
+  "amount_token_pledged": "1213.00",
+  "amount_token_first_batch_used": "10000.00",
+  "amount_token__used": "0",
+  "backers_count": 3759,
+  "proposal_list_id": [
+    1
+  ],
+  "twitter_url": "",
+  "project_website": "",
+  "discord_url": "",
+  "updated_at": 1658852060,
+  "start_time": 1658852060,
+  "end_time": 1661360340,
+  "creator": {
+    "user_id": 1,
+    "user_id_hash": "VXNlci05NTcyNDM2Njg=",
+    "grants_create_list_id": [
+      1
+    ],
+    "grants_contribution_list_id": [
+      1
+    ],
+    "grants_collections_list_id": [
+      1
+    ],
+    "account_address": "5CFuXNqoVGTjgBUYR2xb145ju9cWdLHABdeYaQQq85Jdewck",
+    "email_address": "",
+    "username": "Steamforged Games Ltd",
+    "portrait": "https://static.coinversation.io/img/portrait/default.svg",
+    "vip_level": 0,
+    "twitter": "",
+    "discord": "",
+    "github": "",
+    "last_login_at": 1658935568,
+    "inserted_at": 1658979304,
+    "updated_at": 1658979304
+  }
+}
