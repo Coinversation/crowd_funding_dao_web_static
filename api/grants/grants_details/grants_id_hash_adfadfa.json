@@ -13,10 +13,14 @@
         "Thank you for visiting! I'm excited to share my long time project, “Bearing His Flowers,” a photobook I am publishing with Yoffy Press. It has been an honor and a delight to work with Jennifer Yoffy, and the entire Yoffy team.",
         "Orders from this campaign will support the printing, production & shipping of “Bearing His Flowers.” Please read on to learn about the project and the exclusive rewards I am offering to help me reach this Kickstarter goal."
       ],
-      "movie": "https://static.coinversation.io/video/grants_details/adfadfa/f2a21d85a8d1cf6e1a4602c77e80a55a_h264_base.mov"
+      "movie": {
+        "base": "https://static.coinversation.io/video/grants_details/adfadfa/f2a21d85a8d1cf6e1a4602c77e80a55a_h264_base.mov"
+      }
     }
   ],
-  "topic": 0,
+  "topic_id": [
+    0
+  ],
   "banner_image_url": "https://static.coinversation.io/img/grants_details/adfadfa/banner_image.png",
   "amount_token_goal": "90000.0",
   "amount_token_first_batch_used": "5000.00",

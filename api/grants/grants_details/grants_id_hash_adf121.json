@@ -19,7 +19,9 @@
       ]
     }
   ],
-  "topic": 0,
+  "topic_id": [
+    0
+  ],
   "banner_image_url": "https://static.coinversation.io/img/grants_details/adsf231341sdc/banner_image.png",
   "movie": {
     "base": "https://static.coinversation.io/video/grants_details/adsf231341sdc/banner_video.mov"
