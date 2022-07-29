@@ -15,5 +15,23 @@
       "title": "Grant Illustrate One",
       "description": "Will sponsor and supporters of the link, discussion, governance."
     }
+  ],
+  "connectLink": [
+    {
+      "icon": "https://static.coinversation.io/images/icon/icon_twitter.svg",
+      "link": ""
+    },
+    {
+      "icon": "https://static.coinversation.io/images/icon/icon_baipishu.svg",
+      "link": ""
+    },
+    {
+      "icon": "https://static.coinversation.io/images/icon/icon_discord.svg",
+      "link": ""
+    },
+    {
+      "icon": "https://static.coinversation.io/images/icon/icon_githup.svg",
+      "link": ""
+    }
   ]
 }
