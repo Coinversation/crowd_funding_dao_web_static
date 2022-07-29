@@ -1,0 +1,19 @@
+{
+  "introduce": [
+    {
+      "icon": "https://static.coinversation.io/images/icon/intro_icon01.svg",
+      "title": "Grant Illustrate One",
+      "description": "Crowdfunding is not guaranteed to pay off, but supporters can participate in project governance"
+    },
+    {
+      "icon": "https://static.coinversation.io/images/icon/intro_icon02.svg",
+      "title": "Grant Illustrate One",
+      "description": "If the crowdfunding is unsuccessful, the money will be refunded directly through the smart contract."
+    },
+    {
+      "icon": "https://static.coinversation.io/images/icon/intro_icon013.svg",
+      "title": "Grant Illustrate One",
+      "description": "Will sponsor and supporters of the link, discussion, governance."
+    }
+  ]
+}
