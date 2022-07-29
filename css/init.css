@@ -149,7 +149,9 @@ i {
 *::after {
   box-sizing: border-box;
 }
-
+*::-webkit-scrollbar {
+  display: none;
+}
 /* Number */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
