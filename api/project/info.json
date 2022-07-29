@@ -19,18 +19,22 @@
   "connectLink": [
     {
       "icon": "https://static.coinversation.io/images/icon/icon_twitter.svg",
+      "title": "twitter",
       "link": ""
     },
     {
       "icon": "https://static.coinversation.io/images/icon/icon_baipishu.svg",
+      "title": "baipishu",
       "link": ""
     },
     {
       "icon": "https://static.coinversation.io/images/icon/icon_discord.svg",
+      "title": "discord",
       "link": ""
     },
     {
       "icon": "https://static.coinversation.io/images/icon/icon_githup.svg",
+      "title": "githup",
       "link": ""
     }
   ]
