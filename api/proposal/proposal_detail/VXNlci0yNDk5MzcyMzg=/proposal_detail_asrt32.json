@@ -1,6 +1,6 @@
 {
   "proposal_id": 0,
-  "proposal_id_hash": "a23dsaaff",
+  "proposal_id_hash": "asrt32",
   "grants_id_hash": "a23dsaaff",
   "amount_token_pledged": "1213.00",
   "main_title": "[AIP-9] Deposit Liquidation Treasury Funds into Lending Pools while waiting to be used for buyback",
@@ -26,13 +26,13 @@
   "creator": {
     "user_id": 1,
     "user_id_hash": "VXNlci05NTcyNDM2Njg=",
-    "grants_create_list_id": [
+    "grants_create_list_id_hash": [
       1
     ],
-    "grants_contribution_list_id": [
+    "grants_contribution_list_id_hash": [
       1
     ],
-    "grants_collections_list_id": [
+    "grants_collections_list_id_hash": [
       1
     ],
     "account_address": "5CFuXNqoVGTjgBUYR2xb145ju9cWdLHABdeYaQQq85Jdewck",

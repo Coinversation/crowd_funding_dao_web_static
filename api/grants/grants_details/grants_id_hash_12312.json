@@ -26,7 +26,7 @@
   "amount_token_first_batch_used": "10000.00",
   "amount_token__used": "0",
   "backers_count": 3759,
-  "proposal_list_id": [
+  "proposal_list_id_hash": [
     1
   ],
   "twitter_url": "",
@@ -38,13 +38,13 @@
   "creator": {
     "user_id": 1,
     "user_id_hash": "VXNlci05NTcyNDM2Njg=",
-    "grants_create_list_id": [
+    "grants_create_list_id_hash": [
       1
     ],
-    "grants_contribution_list_id": [
+    "grants_contribution_list_id_hash": [
       1
     ],
-    "grants_collections_list_id": [
+    "grants_collections_list_id_hash": [
       1
     ],
     "account_address": "5CFuXNqoVGTjgBUYR2xb145ju9cWdLHABdeYaQQq85Jdewck",
