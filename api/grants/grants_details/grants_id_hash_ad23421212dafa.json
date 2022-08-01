@@ -24,7 +24,7 @@
   "amount_token_goal": "83450.0",
   "amount_token_pledged": "1213.00",
   "amount_token_first_batch_used": "10000.00",
-  "amount_token__used": "0",
+  "amount_token_used": "0",
   "backers_count": 3759,
   "proposal_list_id_hash": [
     1

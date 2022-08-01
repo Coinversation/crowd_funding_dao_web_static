@@ -24,7 +24,7 @@
   "banner_image_url": "https://static.coinversation.io/img/grants_details/adfadfa/banner_image.png",
   "amount_token_goal": "90000.0",
   "amount_token_first_batch_used": "5000.00",
-  "amount_token__used": "0",
+  "amount_token_used": "0",
   "backers_count": 89,
   "proposal_list_id_hash": [
     1
