@@ -43,13 +43,13 @@
     "user_id": 1,
     "user_id_hash": "VXNlci05NTcyNDM2Njg=",
     "grants_create_list_id_hash": [
-      1
+      "1"
     ],
     "grants_contribution_list_id_hash": [
-      1
+      "1"
     ],
     "grants_collections_list_id_hash": [
-      1
+      "1"
     ],
     "account_address": "5CFuXNqoVGTjgBUYR2xb145ju9cWdLHABdeYaQQq85Jdewck",
     "email_address": "",
