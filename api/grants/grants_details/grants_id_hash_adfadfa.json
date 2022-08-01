@@ -29,9 +29,10 @@
   "proposal_list_id_hash": [
     1
   ],
-  "twitter_url": "",
-  "project_website": "",
-  "discord_url": "",
+  "twitter_url": "https://www.baidu.com/",
+  "project_url": "https://www.baidu.com/",
+  "github_url": "https://www.baidu.com/",
+  "discord_url": "https://www.baidu.com/",
   "updated_at": 1658232204,
   "start_time": 1658232204,
   "end_time": 1660824201,
