@@ -6,6 +6,7 @@
   "main_title": "[AIP-9] Deposit Liquidation Treasury Funds into Lending Pools while waiting to be used for buyback",
   "description": "As GPs, we’ve led two of the largest and longest-standing global community platforms supporting this target startup profile, and we bring unmatched portfolio support and an expansive footprint of potential product users and customers, employees, investors, and champions to the table for our founders. We have a strong track record of 15+ years working with founders and investors in the ecosystem and have backed more women-led startups than the biggest VC firms.",
   "amount_vault": "0",
+  "proposal_status": "0",
   "voting_options": [
     {
       "id": 0,
