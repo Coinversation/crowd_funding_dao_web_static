@@ -106,6 +106,7 @@ article, aside, details, figcaption, figure,
 body {
   line-height: 1;
   font-size: 16px;
+  background-color: #f9f9f9;
 }
 ol,
 ul {
