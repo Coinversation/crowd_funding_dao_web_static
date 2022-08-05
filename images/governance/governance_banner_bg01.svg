@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 240" class="design-iconfont">
+  <defs>
+    <linearGradient x1="50%" y1="5.99678333%" x2="50%" y2="100%" id="41ohnf3mw__h1u06j95db">
+      <stop stop-color="#ECE8F5" offset="0%"/>
+      <stop stop-color="#FFF" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="50%" y1="5.99678333%" x2="50%" y2="100%" id="41ohnf3mw__t5eqeu5bgc">
+      <stop stop-color="#ECE8F5" offset="0%"/>
+      <stop stop-color="#FFF" offset="100%"/>
+    </linearGradient>
+    <path id="41ohnf3mw__zetr5e2qya" d="M0 0H1440V240H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="41ohnf3mw__p1v02uub3d" fill="#fff">
+      <use xlink:href="#41ohnf3mw__zetr5e2qya"/>
+    </mask>
+    <use fill="url(#41ohnf3mw__h1u06j95db)" xlink:href="#41ohnf3mw__zetr5e2qya"/>
+    <path d="M-105.882353,303.139082 C-20.5024995,166.295178 106.413378,105.098495 274.865279,119.549035 C527.543131,141.224844 626.595053,185.359605 809.151457,119.549035 C991.707861,53.7384644 1067.30083,158.765289 1179.65512,168.351272 C1292.00941,177.937255 1396.3387,173.883082 1469.37364,239.549035 C1518.06361,283.326336 992.978274,304.523019 -105.882353,303.139082 Z" fill="url(#41ohnf3mw__t5eqeu5bgc)" mask="url(#41ohnf3mw__p1v02uub3d)"/>
+  </g>
+</svg>

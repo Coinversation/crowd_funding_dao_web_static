@@ -70,7 +70,10 @@
   src: url(https://static.coinversation.io/fonts/Montserrat-ExtraBold.ttf)
     format("truetype");
 }
-
+@font-face {
+  font-family: Galaxy;
+  src: url(https://static.coinversation.io/fonts/Galaxy.ttf);
+}
 iframe {
   display: none !important;
 }
