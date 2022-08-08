@@ -218,6 +218,9 @@ input[type="range"]::-ms-track {
 .mt30 {
   margin-top: 40px;
 }
+.ml30 {
+  margin-left: 30px;
+}
 .mb12 {
   margin-bottom: 12px;
 }
