@@ -229,6 +229,7 @@ input[type="range"]::-ms-track {
 }
 .h2 {
   font-size: 24px;
+  line-height: 30px;
 }
 .h3 {
   font-size: 16px;
