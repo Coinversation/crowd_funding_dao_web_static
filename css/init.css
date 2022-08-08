@@ -218,6 +218,12 @@ input[type="range"]::-ms-track {
 .mb12 {
   margin-bottom: 12px;
 }
+.h2 {
+  font-size: 24px;
+}
+.h3 {
+  font-size: 16px;
+}
 
 .form .text {
   line-height: 20px;
